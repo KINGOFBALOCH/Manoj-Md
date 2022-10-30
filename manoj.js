@@ -2,8 +2,8 @@
 Manoj Md Whatsapp Bot
 
 Telegram: https://t.me/RavinduManoj
-Facebook: https://www.facebook.com/ravindu.manoj.79
-Youtube: https://youtube.com/c/TechToFuture
+Facebook: https://youtu.be/OSvvf9ESl38
+Youtube: https://youtu.be/OSvvf9ESl38
 
 Coded By Ravindu Manoj
 */
